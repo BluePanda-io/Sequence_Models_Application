@@ -7,15 +7,8 @@ Developing from Scratch Filters that change Images and apply them via Convolutio
 ## In this project it was developed 
 1. A function 
 
-## Results of the Project 
-<img src="Images/1_GrayScaleAndRGBtoBluredImages.png" width="600">
 
-## What I learned from this Project
+<img src="Images/frequencyVoice.png" width="600">
+<img src="Images/LSTM.png" width="600">
 
-## What was the project difficulties 
 
-## My solutions to the difficulties
-
-## Notable Features
-
-## Technology Used 
