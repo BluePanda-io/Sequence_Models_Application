@@ -1,6 +1,6 @@
-# Image Processing Masks-Convolution
+# Sequence Models Application
 
-Developing from Scratch Filters that change Images and apply them via Convolution With the purpose to Uderstand the Basics of Image Processing - Originally developed 22/05/2019
+Three applicaitons of Sequence Models that I build during a SM Specialization - Originally developed 22/05/2019
 
 You can find everything on the two JupyterNotebooks"
 
