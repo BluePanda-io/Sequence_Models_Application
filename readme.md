@@ -1,11 +1,11 @@
 # Sequence Models Application
 
-Three applicaitons of Sequence Models that was build during Deep Learning Specialization - Originally developed 22/05/2019
+Three applications of Sequence Models that were built during Deep Learning specialization - Originally developed 22/05/2019
 
 You can find everything on the two JupyterNotebooks"
 
-## In this project it was developed 
-Really interesting projects that was build during the Sequence Models Specialization involving signal processing and LSTMs which is a fundamental part of the Deep Learning education
+## What was developed in this project 
+Really interesting projects that were built during the Sequence Models specialization, involving signal processing and LSTMs which is a fundamental part of the Deep Learning education.
 
 
 <img src="Images/frequencyVoice.png" width="600">
