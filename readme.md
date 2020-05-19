@@ -1,6 +1,6 @@
 # Sequence Models Application
 
-Three applicaitons of Sequence Models that I build during a SM Specialization - Originally developed 22/05/2019
+Three applicaitons of Sequence Models that was build during Deep Learning Specialization - Originally developed 22/05/2019
 
 You can find everything on the two JupyterNotebooks"
 
